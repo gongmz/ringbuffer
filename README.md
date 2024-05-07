@@ -1,2 +1,2 @@
 # ringbuffer
-队列
+环形缓冲区
